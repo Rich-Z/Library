@@ -9,3 +9,5 @@ C:\Users\Richard\Documents\Programming\Library\Library\obj\Debug\netcoreapp1.1\L
 C:\Users\Richard\Documents\Programming\Library\Library\obj\Debug\netcoreapp1.1\Library.pdb
 C:\Users\Richard\Documents\Programming\Library\Library\bin\Debug\netcoreapp1.1\LibraryData.dll
 C:\Users\Richard\Documents\Programming\Library\Library\bin\Debug\netcoreapp1.1\LibraryData.pdb
+C:\Users\Richard\Documents\Programming\Library\Library\bin\Debug\netcoreapp1.1\LibraryServices.dll
+C:\Users\Richard\Documents\Programming\Library\Library\bin\Debug\netcoreapp1.1\LibraryServices.pdb
