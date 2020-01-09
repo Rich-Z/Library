@@ -4,18 +4,18 @@
     font-weight: bold;
 }
 
-    .logo > a {
-        color: #ddd;
-        text-decoration: none;
-        transition-duration: 0.5s;
-    }
+.logo > a {
+    color: #ddd;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
 
-        .logo > a:hover {
-            color: #fff;
-            transition: ease;
-            text-decoration: none;
-            transition-duration: 0.5s;
-        }
+.logo > a:hover {
+    color: #fff;
+    transition: ease;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
 
 .page-content {
     padding: 20px;
